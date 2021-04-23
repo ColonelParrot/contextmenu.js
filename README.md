@@ -9,11 +9,4 @@ Skip the hassle and use **`ContextMenu.js`** to create **Powerful**, **Customiza
 
 #### [Learn ContextMenu.js in 2 minutes](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/quickstart.md)
 
-### Importing
-
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ColonelParrot/contextmenu.js@main/src/styles.min.css"/>
-<script src="https://cdn.jsdelivr.net/gh/ColonelParrot/contextmenu.js@latest/src/script.min.js"></script>
-```
-
 ### See the live [demo](https://jsfiddle.net/ColonelParrot/zsowd1my/1/) (https://jsfiddle.net/ColonelParrot/zsowd1my/1/)
