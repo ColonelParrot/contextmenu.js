@@ -51,3 +51,5 @@ ContextMenuJS.init(contextmenu).attach(document, callback);
 ```
 
 In the example above, it will log the callsign of the clicked contextmenu item.
+
+The class `menu-style-default` is one of the [many custom styles that ContextMenu.js offers](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/custom-styles.md), although you can always try customizing your own.
