@@ -1,6 +1,6 @@
 # contextmenu.js
 
-<img src="https://user-images.githubusercontent.com/65585002/115917664-933e5800-a444-11eb-9f3f-07ccc101222d.PNG">
+<img style="width:100%" src="https://user-images.githubusercontent.com/65585002/115917664-933e5800-a444-11eb-9f3f-07ccc101222d.PNG">
 <hr>
 
 Skip the hassle and use **`ContextMenu.js`** to create **Powerful**, **Customizable** and **Portable** *custom* context menues reliably and with ease.
