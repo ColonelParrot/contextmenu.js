@@ -37,19 +37,27 @@ Once initialized, use the `.attach` method to attach it to an element and a call
 ### Demo
 
 ```html
-<ul id="contextmenu" class="context-menu-js context-menu menu-style-default">
+<ul id="contextmenu" class="context-menu-js context-menu menu-style-default dark-theme">
 	<li data-callsign="item-1">Context Menu Item #1</li>
 	<li data-callsign="item-2">Context Menu Item #2</li>
 </ul>
+
+Try rightclicking and selecting an item
+
+<p id="clickmessage"></p>
+
 <script>
+var cm = document.getElementById("clickmessage");
+
 var contextmenu = document.getElementById("contextmenu");
 function callback(callsign){
-  console.log(callsign);
+  cm.innerHTML = "You clicked "+callsign;
 }
 ContextMenuJS.init(contextmenu).attach(document, callback);
 </script>
+</script>
 ```
 
-In the example above, it will log the `data-callsign` attribute value of the clicked contextmenu item.
+In the example above, it will set the innerText of a paragraph element to the `data-callsign` attribute value of the clicked contextmenu item.
 
-The class `menu-style-default` is one of the [many custom styles that ContextMenu.js offers](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/custom-styles.md), although you can always try customizing your own.
+The class `menu-style-default` and `dark-theme` is one of the [many custom styles that ContextMenu.js offers](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/custom-styles.md), although you can always try customizing your own.
