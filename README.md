@@ -11,6 +11,14 @@ ContextMenu.js is designed for simplicity to enable a quick-start on *any* web p
 
 ### [Learn ContextMenu.js now](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/quickstart.md)
 
-See the live [demo](https://jsfiddle.net/ColonelParrot/zsowd1my/5) (https://jsfiddle.net/ColonelParrot/zsowd1my/5)
+## Cross-device and browser support
 
-#### [Browser Support](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/support.md)
+Don't worry about browser compatibility or responsive issues - ContextMenu.js does it all for you. Check out our [Browser Support](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/support.md).
+
+## Completely customizable
+
+ContextMenu.js is completely customizable, and provides built-in styles to add a little *jazz* to your custom contextmenu which are extremely easy to implement. Take a sneak peek [here](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/custom-styles.md).
+
+## See it in action
+
+See the live [demo](https://jsfiddle.net/ColonelParrot/zsowd1my/5) (https://jsfiddle.net/ColonelParrot/zsowd1my/5)
