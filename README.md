@@ -9,6 +9,12 @@ Skip the hassle and use **`ContextMenu.js`** to create **Powerful**, **Customiza
 
 ContextMenu.js is designed for simplicity to enable a quick-start on *any* web project. Create custom contextmenus with only 1 line of code while giving you complete flexibility and functionality.
 
+All you need is 1 line of code. That's it:
+
+```javascript
+ContextMenuJS.init(contextmenu).attach(document, function(c){console.log(c);});
+```
+
 ### [Learn ContextMenu.js now](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/quickstart.md)
 
 ## Cross-device and browser support
