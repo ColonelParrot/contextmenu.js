@@ -5,8 +5,24 @@
 
 Skip the hassle and use **`ContextMenu.js`** to create **Powerful**, **Customizable** and **Portable** *custom* context menus reliably and with ease.
 
-### Designed for simplicity and quick-start on *any* web project
+### Designed for simplicity and quick-start on *any* web project - learn in just *2 minutes*
 
-### [Learn ContextMenu.js in just 2 minutes](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/quickstart.md)
+[Learn ContextMenu.js now](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/quickstart.md)
 
-### See the live [demo](https://jsfiddle.net/ColonelParrot/zsowd1my/5) (https://jsfiddle.net/ColonelParrot/zsowd1my/5)
+See the live [demo](https://jsfiddle.net/ColonelParrot/zsowd1my/5) (https://jsfiddle.net/ColonelParrot/zsowd1my/5)
+
+### Support across nearly all browsers
+
+#### Desktop Support
+
+| Chrome | Edge | Firefox | Internet Explorer | Opera | Safari |
+| ------ | ---- | ------- | ----------------- | ----- | ------ |
+| ✓ 1   | ✓ 12 | ✓ 6 | ✓ 9 | ✓ 10.5 | ✓ 3 |
+
+#### Mobile Support
+
+| WebView Android | Chrome Android | Firefox for Android | Opera Android | Safari on iOS | Samsung Internet |
+| --------------- | -------------- | ------------------- | ------------- | ------------- | ------ |
+| ✓ 1   | ✓ 18 | ✓ 6 | ✓ 11.1 | ✓ 1 | ✓ 1.0 |
+
+Numbers indicate version thereafter where support was added
