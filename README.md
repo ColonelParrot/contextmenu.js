@@ -11,3 +11,4 @@ Skip the hassle and use **`ContextMenu.js`** to create **Powerful**, **Customiza
 
 See the live [demo](https://jsfiddle.net/ColonelParrot/zsowd1my/5) (https://jsfiddle.net/ColonelParrot/zsowd1my/5)
 
+#### [Browser Support](https://github.com/ColonelParrot/contextmenu.js/blob/main/docs/support.md)
