@@ -7,7 +7,7 @@
 Add the following to the `<head>` tag:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ColonelParrot/contextmenu.js@latest/src/styles-v1.1.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ColonelParrot/contextmenu.js@main/src/styles.min.css"/>
 <script src="https://cdn.jsdelivr.net/gh/ColonelParrot/contextmenu.js@main/src/script.min.js"></script>
 ```
 
