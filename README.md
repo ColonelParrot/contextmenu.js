@@ -21,4 +21,4 @@ ContextMenu.js is completely customizable, and provides built-in styles to add a
 
 ## See it in action
 
-See the live [demo](https://jsfiddle.net/ColonelParrot/zsowd1my/5) (https://jsfiddle.net/ColonelParrot/zsowd1my/5)
+See the live demo here: https://jsfiddle.net/ColonelParrot/c94y5xdz/
