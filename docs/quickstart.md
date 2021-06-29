@@ -55,7 +55,6 @@ function callback(callsign){
 }
 ContextMenuJS.init(contextmenu).attach(document, callback);
 </script>
-</script>
 ```
 
 In the example above, it will set the innerText of a paragraph element to the `data-callsign` attribute value of the clicked contextmenu item.
